@@ -1,4 +1,4 @@
-# Angular 2 App Seed based in - https://github.com/mschwarzmueller/angular-2-beta-boilerplate
+# Angular 2 App Seed
 
 ## Description
 This repository acts as a very simple Angular 2 App Seed with which you can get started developing Angular 2 immediately.
